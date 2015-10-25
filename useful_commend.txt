@@ -43,3 +43,15 @@ git remote add origin networkaddr
 git push origin master
 把本地master分支推送到远程（第一次执行命令需要加参数-u：git push -u origin master）
 
+git clone networkaddr
+将远程库克隆到本地
+
+git branch 分支名
+创建分支
+
+git checkout 分支名
+切换分支
+
+git checkout -b 分支名
+创建并切换分支
+
