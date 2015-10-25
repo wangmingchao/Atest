@@ -55,3 +55,9 @@ git checkout 分支名
 git checkout -b 分支名
 创建并切换分支
 
+git merge 分支名
+将指定的分支合并到当前所在的分支
+
+git branch -d 分支名
+删除指定分支
+
